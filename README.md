@@ -1,5 +1,5 @@
 # *JULIANNEJOI PORTFOLIO*
-// deployed link goes here
+https://juliannejoi.github.io/juliannejoi-portfolio/
 
 ## CONTENTS
 
