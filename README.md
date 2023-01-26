@@ -3,7 +3,7 @@
 
 ## CONTENTS
 
-* Personal/Contact inforamtion
+* Personal/Contact information
 * Project samples
 
 ## CRITERIA
