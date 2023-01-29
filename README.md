@@ -1,5 +1,5 @@
 # *JULIANNEJOI PORTFOLIO*
-
+https://juliannejoi.github.io/juliannejoi-portfolio/
 
 ## CONTENTS
 
